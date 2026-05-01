@@ -17,7 +17,7 @@
 <body>
     <div class="card">
         <div class="profile-img">S</div>
-        <h1>المبرمجة صوما</h1>
+        <h1>المبرمجة سوما</h1>
         <p>خبيره في البطاقات الذكية والأنظمة الرقمية</p>
         <a href="https://wa.me/964000000000" class="btn whatsapp">تواصل عبر واتساب</a>
         <a href="#" class="btn">الموقع الإلكتروني</a>
